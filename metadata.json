@@ -1,0 +1,7 @@
+{
+  "name": "AI Email Generator",
+  "description": "Production-ready AI email assistant to create, rewrite, improve, summarize, and translate professional emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
