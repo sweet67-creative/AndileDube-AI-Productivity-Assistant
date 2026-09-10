@@ -1,4 +1,4 @@
-# EmailCraft - Andile Dube AI Productivity Assistant
+# EmailCraft -AI Productivity Assistant
 **CAPACITI 2026 | AI-Powered Email Generator**
 
 🚀 **Live Demo:** https://emailcraft-andile-2026-soweto.ai.studio
